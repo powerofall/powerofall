@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @powerofall
 - 👀 I’m interested in ... all things God, health/fitness, and tech
-- 🌱 I’m currently learning ... Frontend
+- 🌱 I’m currently learning ... Frontend 
 - 💞️ I’m looking to collaborate on ... Web Development projects
 - 📫 How to reach me ... thepowerofwill23@proton.me
 - 😄 Pronouns: ...
